@@ -17,7 +17,7 @@ I love what i Do, working with Data and help companies to get more results.
 ![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![git](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=Git)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
