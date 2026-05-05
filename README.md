@@ -1,7 +1,7 @@
 # 👋 Hi there
 
-I'm Paulo Silva, a passionate Product Engineer. I currently work as a Junior BI Developer @ Kuehne-Nagel. </br>
-With over 4 years of experience in the field, I working creating a Data work where I work today and it's awesome!
+I'm Paulo Silva, a passionate Product Engineer. I currently work as a Specialist Data Engineer @ Kuehne-Nagel. </br>
+With over 6 years of experience in the field, I working creating a Data work where I work today and it's awesome!
 
 # 🚀 Expertise
 
